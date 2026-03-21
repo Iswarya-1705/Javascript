@@ -1,0 +1,6 @@
+var Price= 200
+var Product= "iphone15"
+var Tax=5
+console.log(Product)
+var total=Price+Tax
+console.log(total)
